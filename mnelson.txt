@@ -1,0 +1,4 @@
+Hello everyone
+Today we are learning git/github
+Have a great weekend
+ 
