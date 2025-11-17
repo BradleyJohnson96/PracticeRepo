@@ -1,4 +1,5 @@
 Hello everyone
+Today is monday.
 Today we are learning git/github
 Have a great weekend
  
